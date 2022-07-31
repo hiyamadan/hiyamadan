@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiya Madan</h1>
 <h3 align="center">I am a Web Developer,UI/UX designer, Graphic Deigner.I'm Final year student at Thapar Institute of engineering and technology, currently persuing my B.Tech in Computer Engineering I'm always eager to learn new things and put my problem-solving abilities to greater use.</h3>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif"
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiyamadan&label=Profile%20views&color=0e75b6&style=flat" alt="hiyamadan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
